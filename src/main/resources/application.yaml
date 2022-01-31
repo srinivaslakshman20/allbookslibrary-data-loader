@@ -10,6 +10,13 @@ spring:
       connection:
         connect-timeout: 10s
         init-query-timeout: 10s
+  main:
+    allow-circular-references: true
+
+dataDump:
+  location:
+    authors: C:\Users\srini\Documents\java-projects\data_dump\ol_dump_authors_2021-11-30.txt
+    books: C:\Users\srini\Documents\java-projects\data_dump\ol_dump_books_2021-11-30.txt
 
 datastax.astra:
   secure-connect-bundle: file:./src/main/resources/secure-connect-allbookslibrary.zip

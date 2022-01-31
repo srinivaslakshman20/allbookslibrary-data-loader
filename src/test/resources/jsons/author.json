@@ -1,0 +1,54 @@
+{
+  "bio": {
+    "type": "/type/text",
+    "value": "American philosopher"
+  },
+  "name": "Kelly Oliver",
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Kelly_Oliver",
+      "type": {
+        "key": "/type/link"
+      },
+      "title": "Wikipedia"
+    },
+    {
+      "url": "https://www.wikidata.org/wiki/Q6386232",
+      "type": {
+        "key": "/type/link"
+      },
+      "title": "Wikidata"
+    },
+    {
+      "url": "https://viaf.org/viaf/116246900",
+      "type": {
+        "key": "/type/link"
+      },
+      "title": "VIAF ID: 116246900"
+    }
+  ],
+  "personal_name": "Kelly Oliver",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2008-04-01T03:28:50.625462"
+  },
+  "photos": [
+    8125831
+  ],
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-09-27T04:17:44.120463"
+  },
+  "latest_revision": 5,
+  "key": "/authors/OL181699A",
+  "birth_date": "1958",
+  "revision": 5,
+  "type": {
+    "key": "/type/author"
+  },
+  "remote_ids": {
+    "viaf": "116246900",
+    "wikidata": "Q6386232",
+    "isni": "0000000109385304"
+  }
+}

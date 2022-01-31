@@ -1,0 +1,65 @@
+{
+  "subtitle": "a novel of suspense",
+  "description": {
+    "type": "/type/text",
+    "value": "Sometimes her eyes seduce. Sometimes they stare straight at the kind of sights most people turn away from. But in the blazing neon and searing sun of Las Vegas, she can't see the man who is watching her and thinking to himself: She is the one. . . .From the mountain views beyond the Strip to the dingy dens of forbidden pleasure, Susan Pulaski loves Las Vegas. A woman who wears a gun at her side and her heart on a sleeve, Pulaski is the perfect fit for her city and her job: unraveling the minds of deviant personalities. Until a killer begins decorating Sin City with the horribly disfigured bodies of once beautiful young women. . . . and Pulaski's own demons go on a binge.Eight months after her cop husband's death, her life is spinning out of control--just as her detective colleagues start searching for a serial killer who methodically stalks his female victims and plunges them into an orgy of terror. When a violent incident earns Pulaski a pink slip from the LVPD and a trip to detox, she's out of the hunt altogether, so she begins to desperately try to regain her job, her reputation, and custody of the niece she's been raising on her own. It seems hopeless--until Pulaski meets the one person who can lead her into the mind of a madman no one else can understand. Darcy O'Bannon is a twenty-five-year-old autistic savant whose relationship with the world around him is so unusual that it forces Pulaski to view the crimes from a bizarre--but ultimately insightful--perspective.White-knuckling her way to the center of the case, she becomes the key player in a desperate hunt for a killer who believes he has found divine inspiration in the works of Edgar Allan Poe. But even with the assistance of Darcy's astonishing skills, Pulaski is in even more danger than she knows. For the man she seeks is watching her, seduced by her frailties and strengths, her beauty and boldness. To finish his masterwork of horror, he needs her.In a blistering novel that brings together glitz and goth, human weakness and human genius, and a murderous psychopath who is all too chillingly real, master storyteller William Bernhardt has created an unparalleled literary Las Vegas thrill ride that will leave readers breathless until the final, stunning page.From the Hardcover edition."
+  },
+  "last_modified": {
+    "type": "/type/datetime",
+    "value": "2020-08-28T09:51:03.140306"
+  },
+  "title": "Dark eye",
+  "created": {
+    "type": "/type/datetime",
+    "value": "2009-10-18T02:50:10.177820"
+  },
+  "covers": [
+    211438
+  ],
+  "subject_places": [
+    "Nevada",
+    "Las Vegas (Nev.)",
+    "Las Vegas"
+  ],
+  "subjects": [
+    "Fiction",
+    "Women detectives",
+    "Policewomen in fiction",
+    "Crimes against",
+    "Women detectives in fiction",
+    "Patients",
+    "Young women in fiction",
+    "Serial murders in fiction",
+    "Young women",
+    "Serial murders",
+    "Ex-police officers",
+    "Policewomen",
+    "Ex-police officers in fiction",
+    "Autism in fiction",
+    "Autism",
+    "Detective and mystery stories",
+    "Psychological fiction",
+    "Mystery",
+    "Suspense",
+    "Autistic people",
+    "Fiction, mystery & detective, general",
+    "Fiction, thrillers, general",
+    "Las vegas (nev.), fiction"
+  ],
+  "latest_revision": 11,
+  "key": "/works/OL114368W",
+  "authors": [
+    {
+      "type": {
+        "key": "/type/author_role"
+      },
+      "author": {
+        "key": "/authors/OL32654A"
+      }
+    }
+  ],
+  "type": {
+    "key": "/type/work"
+  },
+  "revision": 11
+}
